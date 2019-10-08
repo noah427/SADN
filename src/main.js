@@ -39,4 +39,4 @@ client.on("message", msg => {
     : msg.channel.send("Command not found");
 });
 
-client.login("NjMwMDkwMjg0Mjg5NzUzMTE2.XZu9iw.iKJw8BU3KxQh4Z7z4aIIuIFbsPY");
+client.login("");
