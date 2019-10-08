@@ -1,0 +1,26 @@
+{
+  "name": "sadn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noah427/SADN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noah427/SADN/issues"
+  },
+  "homepage": "https://github.com/noah427/SADN#readme"
+}
