@@ -4,7 +4,7 @@ const storageHelper = require("../storage/storageHelper");
 
 module.exports = {
   description: `
-  delete one of your previously saved ads
+  Delete one of your previously saved ads
     `,
   run: msg => {
     let args = msg.content.split(" ");

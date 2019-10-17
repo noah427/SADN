@@ -4,6 +4,7 @@ const storageHelper = require("../storage/storageHelper");
 
 module.exports = {
   description: `
+  This runs during the ad making process
     `,
   run: (msg, client, ads, usersMakingAds) => {
     if (msg.content == `${config.prefix}cancel`) {
